@@ -130,8 +130,8 @@
         </div>
  
         <div class="contact">
-            <a href="mailto:your@email.com" target="_blank">📧 联系我</a>
-            <a href="https://github.com" target="_blank">🐙 GitHub</a>
+            <a href="mailto:your@email.com" target="_blank">📧 1893648293</a>
+            <a href="https://github.com" target="_blank">🐙 107689245@qq.com</a>
             <a href="https://linkedin.com" target="_blank">🌐 LinkedIn</a>
         </div>
     </div>
